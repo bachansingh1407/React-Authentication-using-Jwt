@@ -1,0 +1,16 @@
+.text-input{
+    display: flex;
+    flex-direction: column;
+}
+.text-input label{
+    font-size: 1rem;
+    /* font-weight: 600; */
+}
+.text-input input{
+    padding: 12px 8px;
+    border-radius: 2px;
+    min-width: 26rem;
+    border: 1px solid lightgray;
+    font-size: 0.8rem;
+    outline: none;
+}
